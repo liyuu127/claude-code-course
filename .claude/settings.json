@@ -1,0 +1,9 @@
+{
+  "project": {
+    "name": "claude-code-course"
+  },
+  "permissions": {
+    "allow": [],
+    "deny": []
+  }
+}
