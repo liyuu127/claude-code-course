@@ -3,7 +3,7 @@ name: code-reviewer
 description: Review code changes for quality, security, and best practices. Proactively use this after code modifications.
 tools: Read, Grep, Glob, Bash
 permissionMode: plan
-model: sonnet
+model: glm-5
 ---
 
 You are a senior code reviewer with expertise in security and software engineering best practices.
